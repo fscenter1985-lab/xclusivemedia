@@ -1,0 +1,6 @@
+{
+  "name": "NEWSPAPERS APP",
+  "description": "An exclusive, AI-powered news aggregator and PWA suitable for Google Play Store and web publication, featuring deep-dive reports, offline caching, and responsive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
